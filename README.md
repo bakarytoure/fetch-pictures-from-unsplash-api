@@ -4,5 +4,5 @@
 
 ## Technologies
 * Reactjs for creating components. 
-* Sementic ui for styling purpose.
+* Semantic ui for styling purpose.
 
